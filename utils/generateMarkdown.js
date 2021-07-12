@@ -17,9 +17,6 @@ function generateMarkdown(data) {
 ${data.title}
 ## Description
 ${data.description}
-
-## Table of Contents (Optional)
-
 ## Installation
 ${data.installation}
 ## Usage
@@ -28,8 +25,6 @@ ${data.usage}
 ${data.credits}
 ## License
 ${data.license}
-## Badges
-${data.badges}
 ## Contributing
 ${data.contributing}
 ## Tests

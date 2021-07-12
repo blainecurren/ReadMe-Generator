@@ -1,23 +1,17 @@
-# j
 # Your Project Title
-
+ReadMe Generator
 ## Description
-j
-
-## Table of Contents (Optional)
-
+a projessional readme generator made with Node.JS
 ## Installation
-j
+Npm init Npm inquirer Node JS
 ## Usage
-undefined
+node index
 ## Credits
-undefined
+Maria Mireles
 ## License
-undefined
-## Badges
-undefined
+None Yet
 ## Contributing
-undefined
+Blaine Curren
 ## Tests
-undefined
+None
   

@@ -7,25 +7,42 @@ const promptUser = [
   {
     type: "input",
     name: "title",
-    message: "What is the title of your program?",
+    message: "What is the title of your project?",
   },
   {
     type: "input",
     name: "description",
-    message: "Enter a brief description of your program",
+    message: "Enter a brief description of your project",
   },
   {
     type: "input",
     name: "installation",
-    message:
-      'Would you like to enter some info about yourself for an "About" section?',
-    default: true,
+    message: "What are the steps required to install your project?",
   },
   {
     type: "input",
-    name: "about",
-    message: "Provide some info about yourself:",
-    when: ({ confirmAbout }) => confirmAbout,
+    name: "usage",
+    message: "How do we run your app?",
+  },
+  {
+    type: "input",
+    name: "credits",
+    message: "Credits: ",
+  },
+  {
+    type: "input",
+    name: "license",
+    message: "Licenses if any: ",
+  },
+  {
+    type: "input",
+    name: "contributing",
+    message: "List the contributors of this project: ",
+  },
+  {
+    type: "input",
+    name: "tests",
+    message: "Include any tests ran: ",
   },
 ];
 
