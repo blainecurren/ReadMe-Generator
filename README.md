@@ -18,9 +18,10 @@ npm inquirer
 
 You can run my app by typing node index.js in the terminal while being in your root directory
 
-```md
+
 ![alt text](assets/images/Usage Screenshot.png)
-```
+
+![alt_text](assets/videos/readme generator gif.gif)
 
 ## Credits
 https://github.com/mariamv29
