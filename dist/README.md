@@ -1,12 +1,12 @@
-# Readme Generator
+# ReadMe Generator
 # Your Project Title
-Readme Generator
+ReadMe Generator
 ## Description
-A projessional readme generator built with nodeJS
+a professional readme generator built with nodeJS
 ## Installation
-npm & npm install inquirer
+npm init / npm i inquirer
 ## Usage
-By typing node index.js in your terminal in the root directory
+by typing node index.js in the root directory of the project
 ## Credits
 Maria Mireles
 ## License
@@ -14,5 +14,5 @@ None at the moment
 ## Contributing
 Blaine Curren
 ## Tests
-None
+None at this moment
   
